@@ -8,5 +8,6 @@ namespace Njord
 {
     class Test
     {
+        // Test Comment
     }
 }
